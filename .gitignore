@@ -1,0 +1,5 @@
+.gitignore
+attestation.csproj
+readme.md
+\bin
+\obj
